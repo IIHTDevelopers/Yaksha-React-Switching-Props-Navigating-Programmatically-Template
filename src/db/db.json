@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "name": "Finish React Project",
+      "description": "Complete the React project by end of the month",
+      "status": "In Progress"
+    },
+    {
+      "id": 2,
+      "name": "Clean the house",
+      "description": "Vacuum and mop all rooms",
+      "status": "Completed"
+    },
+    {
+      "id": 3,
+      "name": "Buy groceries",
+      "description": "Get ingredients for the week",
+      "status": "Pending"
+    }
+  ]
+}
